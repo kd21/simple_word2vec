@@ -1,0 +1,1 @@
+https://colab.research.google.com/github/kd21/simple_word2vec
